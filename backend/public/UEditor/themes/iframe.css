@@ -1,0 +1,14 @@
+/*可以在这里添加你自己的css*/
+/*body{*/
+/*  font-size: 12px;*/
+/*  font-family: SimSun;*/
+/*}*/
+p{
+  text-indent: 2em;
+  line-height: 1.5;
+}
+img{
+  width: 100%;
+  max-width: 100%;
+}
+
